@@ -1,8 +1,4 @@
-# Mundial 2026 — Reconstrucción definitiva del Data Warehouse
-
-Esto reemplaza todo lo anterior: `crear_tablas_wc2026.sql`, `mejoras_dw_mundial2026.sql`, `cargar_json_sqlserver.py`, y los fixes 01-06 (`fix_ronda.py`, `fix_fase_y_estadio.sql`, `poblar_venue_y_estadio.py`, `agregar_equipos_es_en.py`, `01_dimpartido_fase_equipos.sql`, `02_sp_momentum_fix.sql`, `03_sp_pausametricas_fix.sql`, `04_resumentorneo_y_sync.sql`, `06_fix_regresion_fase.sql`).
-
-**No corras esos archivos nunca más sobre esta base.**
+# Mundial 2026 — Data Warehouse
 
 ---
 
